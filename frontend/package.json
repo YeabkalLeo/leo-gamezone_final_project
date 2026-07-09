@@ -1,0 +1,13 @@
+{
+  "name": "leo-gamezone-frontend",
+  "version": "1.0.0",
+  "description": "Leo GameZone Management System Frontend",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for vanilla JS'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
